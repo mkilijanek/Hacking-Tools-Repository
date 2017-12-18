@@ -1,9 +1,16 @@
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-7" />
+<meta name="description" content="Hacking Tools Repository"/>
+<meta name="keywords" content="hacking tools repository"/>
+<title> Hacking Tools Repository </title>
+<link rel="stylesheet" type="text/css" href="style.css" />
+</head>
 <div class="left">
    <span class="main_header"><b></b></span><br/>
    <span class="pagetitle">Hacking Tools Repository</span>
    <div style="background:transparent; border-top:1px solid #005546; width:100%;"></div>
    <p class="description">
-<a id = "top"></a>              
+<br/><br/>
 Here is a list of security tools that have been collected from the internet. These tools are specifically aimed toward security professionals and enthusiasts/hobbyists for testing and demonstrating security weaknesses.
 <br/><br/>
 These tools are created for the sole purpose of security awareness and education, they should not be used against systems that you do not have permission to test/attack. You could end up in jail.
@@ -11,7 +18,7 @@ These tools are created for the sole purpose of security awareness and education
 Most of the tools are open source/free with a couple of exceptions,
 before using any tools, i recommend that you read the instructions/documentation available on each of the individual tool's websites. Although some of the tools could be listed in more than one category, they only appear in the list only once, under its primary category.             
 <br/><br/>
-If you have suggestions or links to tools/scripts to submit, please do, you can fork, edit, send a pull request or you can leave a comment on the wiki page <a class="link" href="https://github.com/Gexos/hacking-tools-repository/wiki"target="_blank">here</a>, your name or github page will be credited.
+If you have suggestions or links to tools/scripts to submit, please do, you can fork, edit, send a pull request or you can leave a message on my <a class="link" href="https://www.instagram.com/thehackingsage"target="_blank">Instagram</a>, your name or github page will be credited. also follow me on Instagram... :P ;)
 <br/><br/>
 <a href="#Passwords"><span class="green"><b>&#187;Passwords</b></span></a> <a href="#Scanning"><span class="green"><b>&#187;Scanning</b></span></a> <a href="#Sniffer"><span class="green"><b>&#187;Sniffer</b></span></a> <a href="#Enumeration"><span class="green"><b>&#187;Enumeration</b></span></a> <a href="#Networking_Tools"><span class="green"><b>&#187;Networking Tools</b></span></a> <a href="#Wireless"><span class="green"><b>&#187;Wireless</b></span></a> <br/><br/> <a href="#Bluetooth"><span class="green"><b>&#187;Bluetooth</b></span></a> <a href="#Web_Scanners"><span class="green"><b>&#187;Web Scanners</b></span></a> <a href="#Database"><span class="green"><b>&#187;Database</b></span></a> <a href="#Vuln_Scanners"><span class="green"><b>&#187;Vuln Scanners</b></span></a> <a href="#Vuln_Apps"><span class="green"><b>&#187;Vuln Apps</b></span></a> <a href="#Live_CD"><span class="green"><b>&#187;Live CD</b></span></a> 
 
@@ -106,7 +113,6 @@ If you have suggestions or links to tools/scripts to submit, please do, you can 
 </tbody>     
 </table>
 <center>
-<a href= "#top"> Top </a>
 </center>
 <br/>
 <table class="filelist" align="center" width="550" cellpadding="5" cellspacing="0">
@@ -234,7 +240,6 @@ If you have suggestions or links to tools/scripts to submit, please do, you can 
 </tbody>
 </table>
 <center>
-<a href= "#top"> Top </a>
 </center>
 <br/>
 <table class="filelist" align="center" width="550" cellpadding="5" cellspacing="0">
@@ -290,7 +295,6 @@ If you have suggestions or links to tools/scripts to submit, please do, you can 
 </tbody>
 </table>
 <center>
-<a href= "#top"> Top </a>
 </center>
 <br/>
 <table class="filelist" align="center" width="550" cellpadding="5" cellspacing="0">
@@ -338,7 +342,6 @@ If you have suggestions or links to tools/scripts to submit, please do, you can 
 </tbody>
 </table>
 <center>
-<a href= "#top"> Top </a>
 </center>
 <br/>
 <table class="filelist" align="center" width="550" cellpadding="5" cellspacing="0">
@@ -382,7 +385,6 @@ If you have suggestions or links to tools/scripts to submit, please do, you can 
 </tbody>
 </table>
 <center>
-<a href= "#top"> Top </a>
 </center>
 <br/>
 <table class="filelist" align="center" width="550" cellpadding="5" cellspacing="0">
@@ -460,7 +462,6 @@ An IDS system is integrated to detect anomaly like MAC usurpation.</td>
 </tbody>
 </table>
 <center>
-<a href= "#top"> Top </a>
 </center>
 <br/>
 <table class="filelist" align="center" width="550" cellpadding="5" cellspacing="0">
@@ -509,7 +510,6 @@ It implements attacks like Bluebug, BlueSnarf, BlueSnarf++, BlueSmack, has featu
 </tbody>
 </table>
 <center>
-<a href= "#top"> Top </a>
 </center>
 <br/>
 <table class="filelist" align="center" width="550" cellpadding="5" cellspacing="0">
@@ -665,7 +665,6 @@ It implements attacks like Bluebug, BlueSnarf, BlueSnarf++, BlueSmack, has featu
 </tbody>
 </table>
 <center>
-<a href= "#top"> Top </a>
 </center>
 <br/>
 <table class="filelist" align="center" width="550" cellpadding="5" cellspacing="0">
@@ -725,7 +724,6 @@ It implements attacks like Bluebug, BlueSnarf, BlueSnarf++, BlueSmack, has featu
 </tbody>
 </table>
 <center>
-<a href= "#top"> Top </a>
 </center>
 <br/>
 <table class="filelist" align="center" width="550" cellpadding="5" cellspacing="0">
@@ -797,7 +795,6 @@ It implements attacks like Bluebug, BlueSnarf, BlueSnarf++, BlueSmack, has featu
 </tbody>
 </table>
 <center>
-<a href= "#top"> Top </a>
 </center>
 <br/>
 <table class="filelist" align="center" width="550" cellpadding="5" cellspacing="0">
@@ -873,7 +870,6 @@ It implements attacks like Bluebug, BlueSnarf, BlueSnarf++, BlueSmack, has featu
 </tbody>
 </table>
 <center>
-<a href= "#top"> Top </a>
 </center>
 <br/>
 <table class="filelist" align="center" width="550" cellpadding="5" cellspacing="0">
@@ -930,3 +926,4 @@ It implements attacks like Bluebug, BlueSnarf, BlueSnarf++, BlueSmack, has featu
 </div>             
    </p>
 </div> <!-- left stop -->
+
