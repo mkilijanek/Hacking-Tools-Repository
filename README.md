@@ -1,11 +1,4 @@
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-7" />
-<meta name="description" content="Hacking Tools Repository"/>
-<meta name="keywords" content="hacking tools repository"/>
-<title> Hacking Tools Repository </title>
-<link rel="stylesheet" type="text/css" href="style.css" />
-</head>
-<div class="left">
+<div class="center">
    <span class="main_header"><b></b></span><br/>
    <span class="pagetitle">Hacking Tools Repository</span>
    <div style="background:transparent; border-top:1px solid #005546; width:100%;"></div>
