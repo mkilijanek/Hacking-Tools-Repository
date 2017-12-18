@@ -1,8 +1,3 @@
-<div class="center">
-   <span class="main_header"><b></b></span><br/>
-   <span class="pagetitle">Hacking Tools Repository</span>
-   <div style="background:transparent; border-top:1px solid #005546; width:100%;"></div>
-   <p class="description">
 <br/><br/>
 Here is a list of security tools that have been collected from the internet. These tools are specifically aimed toward security professionals and enthusiasts/hobbyists for testing and demonstrating security weaknesses.
 <br/><br/>
