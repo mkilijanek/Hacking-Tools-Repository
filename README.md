@@ -784,6 +784,10 @@ It implements attacks like Bluebug, BlueSnarf, BlueSnarf++, BlueSmack, has featu
 <td class="frame"><a class="link" href="http://technet.microsoft.com/en-us/security/cc184923"target="_blank">MBSA</a></td>
 <td class="frame">Microsoft Baseline Security Analyzer (MBSA) is an easy-to-use tool designed for the IT professional that helps small and medium-sized businesses determine their security state in accordance with Microsoft security recommendations and offers specific remediation guidance.</td>
 </tr>
+<tr>
+<td class="frame"><a class="link" href="https://pixee.ai"target="_blank">Pixee</a></td>
+<td class="frame">Pixeebot finds security and code quality issues in your code and creates merge-ready pull requests with recommended fixes.</td>
+</tr>
 </tbody>
 </table>
 <center>
